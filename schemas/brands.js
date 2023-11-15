@@ -15,6 +15,11 @@ export default{
             name:'name',
             title:'Name',
             type:'string'
+        },
+        {
+            name:'websiteLink',
+            title:'WebsiteLink',
+            type:'string'
         }
     ]
 }
